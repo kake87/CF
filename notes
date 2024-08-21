@@ -1,0 +1,3 @@
+uvicorn main:app --reload
+fastapi run
+python3 -m main.py
